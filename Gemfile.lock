@@ -250,7 +250,7 @@ DEPENDENCIES
   error_highlight (>= 0.4.0)
   factory_bot_rails (~> 4.0)
   faker
-  pg (~> 1.1)
+  pg
   pry-rails
   puma (>= 5.0)
   rack-cors
